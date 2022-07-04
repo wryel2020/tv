@@ -1189,9 +1189,7 @@ http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22Wn27YEtFBvgb8JMu_STYlzzbSCymA_jrw&usqp=CAU" group-title="Radio", FM 88.8
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
 
-
-# MEHEDI #
-#EXTM3U
+Mehedi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
