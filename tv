@@ -14,8 +14,6 @@ http://103.55.144.46/hls/sonyen.m3u8
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/Sony_Aath.png",Sony AATH
 http://103.55.144.46/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Amrbd",Sony Aath(Amrbd)
-http://103.136.200.246:8082/Sonyaath/index.m3u8
 
 
 
@@ -52,7 +50,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",DHINCHAK 2(Flixhub)
+http://103.55.144.46/hls/dhin.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.pinimg.com/originals/28/e8/d2/28e8d20be928d3c69f4ba26aac4bf7d3.jpg", UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
