@@ -42,14 +42,25 @@ http://103.55.144.46/hls/colorscineplex.m3u8
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeetv.png" group-title="Hindi", ZEE TV
 http://103.55.144.46/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi", Sony Wah
+http://103.139.171.5:5001/live.php?c=Sony_Wah&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi", ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CEz1WRj.png" group-title="Hindi", &priveHD
+http://103.179.246.243:8000/play/a01d
+
+
 #EXTINF:-1 tvg-logo="ext" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bollywood
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/aa/axn.png" group-title="English", AXN SD
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",DHINCHAK 2(Flixhub)
 http://103.55.144.46/hls/dhin.m3u8
 
@@ -315,6 +326,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="English",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English", HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
@@ -985,6 +998,11 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg" group-title="Wild & Animal", Discovery English
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dis.png" group-title="Documentary", Discovery Bangla
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel 18 Hindi HD
+http://103.179.246.243:8000/play/a013
+
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png" group-title="Wild & Animal", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
