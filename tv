@@ -1,5 +1,154 @@
 #EXTM3U
 
+--------------RA--------------------------------------------------
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",&PRIVE HD-Rs 19
+http://103.179.246.243:8000/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="Channels",&flix HD-Rs19
+http://103.179.246.243:8000/play/a00p
+#EXTINF:0 tvg-id="ext" group-title="Channels",&pictures HD -Rs19
+http://103.179.246.243:8000/play/a017
+#EXTINF:0 tvg-id="ext" group-title="Channels",&tv HD - Rs 19
+http://103.179.246.243:8000/play/a01u
+#EXTINF:0 tvg-id="ext" group-title="Channels",1SPORTS - Rs 4
+http://103.179.246.243:8000/play/a064
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLAN HD-Rs3
+http://103.179.246.243:8000/play/a011
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC WORLD - Rs 1
+http://103.179.246.243:8000/play/a01f
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON-Rs4.25
+http://103.179.246.243:8000/play/a01w
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN INTL - 50p
+http://103.179.246.243:8000/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CEN-Rs 5
+http://103.179.246.243:8000/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors HD-Rs 19
+http://103.179.246.243:8000/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY K-Rs3
+http://103.179.246.243:8000/play/a024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD-Rs6
+http://103.179.246.243:8000/play/a00y
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery S-Rs1
+http://103.179.246.243:8000/play/a01k
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery T-Rs1
+http://103.179.246.243:8000/play/a01l
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Chan-Rs8
+http://103.179.246.243:8000/play/a01y
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Jr.-Rs 4
+http://103.179.246.243:8000/play/a020
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSports HD-Rs 6
+http://103.179.246.243:8000/play/a00r
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Life HD-Rs1
+http://103.179.246.243:8000/play/a01t
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY TV18 HD-Rs7
+http://103.179.246.243:8000/play/a013
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAX HD -Rs 17
+http://103.179.246.243:8000/play/a00h
+#EXTINF:0 tvg-id="ext" group-title="Channels",MN+ HD-Rs 10
+http://103.179.246.243:8000/play/a00u
+#EXTINF:0 tvg-id="ext" group-title="Channels",MNX - Rs 6
+http://103.179.246.243:8000/play/a01h
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVIES NO-Rs 10
+http://103.179.246.243:8000/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV - Rs 3
+http://103.179.246.243:8000/play/a05q
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT Geo Wild HD-Rs 5
+http://103.179.246.243:8000/play/a00i
+#EXTINF:0 tvg-id="ext" group-title="Channels",National G HD-Rs10
+http://103.179.246.243:8000/play/a00x
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr. - Rs1
+http://103.179.246.243:8000/play/a023
+#EXTINF:0 tvg-id="ext" group-title="Channels",PIX HD - Rs 15
+http://103.179.246.243:8000/play/a016
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pogo - Rs 4.25
+http://103.179.246.243:8000/play/a022
+#EXTINF:0 tvg-id="ext" group-title="Channels",Romedy NOW-Rs 6
+http://103.179.246.243:8000/play/a01j
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAB HD - Rs 19
+http://103.179.246.243:8000/play/a01v
+#EXTINF:0 tvg-id="ext" group-title="Channels",SET HD - Rs 19
+http://103.179.246.243:8000/play/a00q
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIX HD - Rs 19
+http://103.179.246.243:8000/play/a00f
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONIC- Rs 2
+http://103.179.246.243:8000/play/a021
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONY MAX 2 - Rs 1
+http://103.179.246.243:8000/play/a01s
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONY PAL -Rs 1
+http://103.179.246.243:8000/play/a036
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR BHARAT HD-Rs19
+http://103.179.246.243:8000/play/a010
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR MOV HD-Rs 19
+http://103.179.246.243:8000/play/a00v
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR WOR P HD-Rs9
+http://103.179.246.243:8000/play/a00a
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR WORLD HD -Rs9
+http://103.179.246.243:8000/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony BBC EarHD-Rs10
+http://103.179.246.243:8000/play/a015
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Ten 1 HD- Rs 19
+http://103.179.246.243:8000/play/a00e
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Ten 2 HD- Rs 17
+http://103.179.246.243:8000/play/a01a
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Ten 3 HD- Rs 17
+http://103.179.246.243:8000/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star GOLD HD -Rs10
+http://103.179.246.243:8000/play/a012
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold 2- Rs 1
+http://103.179.246.243:8000/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold SelHD-Rs10
+http://103.179.246.243:8000/play/a014
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Plus HD -Rs19
+http://103.179.246.243:8000/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star S Hin 1 HD- Rs19
+http://103.179.246.243:8000/play/a026
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Spo 1 HD-Rs19
+http://103.179.246.243:8000/play/a00c
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Spo 2 HD- Rs19
+http://103.179.246.243:8000/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sports 3 Rs 4
+http://103.179.246.243:8000/play/a00l
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sports S 1 HD-Rs19
+http://103.179.246.243:8000/play/a018
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Sports S 2 HD-Rs10
+http://103.179.246.243:8000/play/a019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Utsav-Rs 1
+http://103.179.246.243:8000/play/a05m
+#EXTINF:0 tvg-id="ext" group-title="Channels",StarMov S HD-Rs 10
+http://103.179.246.243:8000/play/a00w
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC HD- Rs3
+http://103.179.246.243:8000/play/a027
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV ACTION-Rs 2
+http://103.179.246.243:8000/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV MOVIES-Rs 2
+http://103.179.246.243:8000/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE ANMOL-Rs 10p
+http://103.179.246.243:8000/play/a00s
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE BOLLYWO-Rs2
+http://103.179.246.243:8000/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE CINEMA HD-Rs19
+http://103.179.246.243:8000/play/a00z
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE Cafe H-Rs19
+http://103.179.246.243:8000/play/a00t
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE TV HD-Rs 19
+http://103.179.246.243:8000/play/a00n
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zoom - 50p
+http://103.179.246.243:8000/play/a025
+#EXTINF:0 tvg-id="ext" group-title="Channels",bindass - Rs 1
+http://103.179.246.243:8000/play/a063
+#EXTINF:0 tvg-id="ext" group-title="Channels",colors CINEPLEX-Rs 3
+http://103.179.246.243:8000/play/a04h
+#EXTINF:0 tvg-id="ext" group-title="Channels",colors INFIN HD-Rs9
+http://103.179.246.243:8000/play/a01b
+#EXTINF:0 tvg-id="ext" group-title="Channels",colors rishtey -Rs 1
+http://103.179.246.243:8000/play/a03i
+#EXTINF:0 tvg-id="ext" group-title="Channels",hungama tv-Rs 6
+http://103.179.246.243:8000/play/a01x
+#EXTINF:0 tvg-id="ext" group-title="Channels",nick - Rs 6
+http://103.179.246.243:8000/play/a01z
+#EXTINF:0 tvg-id="ext" group-title="Channels",nick HD+- Rs 10
+http://103.179.246.243:8000/play/a01c
+------------------------CS-----------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
